@@ -1,6 +1,8 @@
 # TwitchChatFilter
 My attempt to make the Twitch.tv Chat more enjoyable.
 
+_Note: This project is still WIP but basic functionality is already present._
+
 ## Installation
 
 This is a UserScript, so you need to install a script manager like [GreaseMonkey](https://greasespot.net/) or [TamperMonkey](https://tampermonkey.net/) first.
@@ -12,11 +14,11 @@ You have to reload any opened Twitch.tv pages for the changes to take effect.
 ## Available filters
 
 - Remove single word messages
+- Remove single emote messages
 - Remove commands
 - Reduce repeating characters
-- Remove repeating words
+- Merge repeated words
 - Merge repeated emotes
-- Remove single emote messages
 
 ## Known issues
 
